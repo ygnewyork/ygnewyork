@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi! I'm a student at UT Austin pusuring stats and data science. My experience lies in building ML Models and using R and Python to conduct data analysis and make predictions for future events. I've worked on projects like [JobSense](https://github.com/texasluminescence/job-trend-analyzer/) and conducted my own analysis on the [NFL Big Data Bowl 2025](https://github.com/ygnewyork/NFLDataBowl2025), and used tensorflow along with scikit-learn for predicting [rainfall](https://github.com/ygnewyork/binary_rainfall_model) based on a multitude of factors.
+Hi! I'm a student at UT Austin pusuring Statistics and Data Science. My experience lies in building ML Models and using R and Python to conduct data analysis and make predictions for future events. I've worked on projects like [JobSense](https://github.com/texasluminescence/job-trend-analyzer/) and conducted my own analysis on the [NFL Big Data Bowl 2025](https://github.com/ygnewyork/NFLDataBowl2025), and used tensorflow along with scikit-learn for predicting [rainfall](https://github.com/ygnewyork/binary_rainfall_model) based on a multitude of factors.
 <!--
 **ygnewyork/ygnewyork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
