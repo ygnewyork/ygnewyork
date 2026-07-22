@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-Hi! I'm a student at UT Austin pursuing a double major in Computer Science and Statistics and Data Science. My experience lies in building ML Models and using R and Python to conduct data analysis and make predictions for future events. I've worked on an applications like [JobSense](https://github.com/texasluminescence/job-trend-analyzer/) where I created data visualizations and time-series models to forecast jobs, salaries, and skills to develop, and used tensorflow along with scikit-learn for predicting [rainfall](https://github.com/ygnewyork/binary_rainfall_model) based on a multitude of factors. I've also worked on [Wampus Prices](https://wampus.duckdns.org/), an interactive web application built with Flask and JavaScript that helps UT Austin students explore and filter student housing options through an interactive map interface with real-time price filtering, walking distance overlays, and detailed apartment information. You can check out my [website](https://ygnewyork.github.io) to take a look at my experience in programming, data, writing, and visualizations!
+Hi! I'm a Computer Science and Statistics & Data Science double major at UT Austin. Right now I'm an SDE intern at AWS on the Aurora database team, building telemetry pipelines across pre-production instances. My focus has been mainly on backend and infrastructure engineering, and I like working where large systems and data meet.
+
+My background spans full-stack software and ML. On the engineering side I've shipped applications with Flask, React Native, Supabase, Firebase, and Docker. During a Spring 2026 SWE internship at Longhorn Life Sciences, I helped build a React Native and Firebase wound-monitoring app for clinicians, owning authentication, the patient dashboard and alerts, and the Firestore schema behind clinical documentation and image uploads. I've also built [Wampus Prices](https://wampus.duckdns.org/), an interactive Flask and JavaScript web app that helps UT Austin students explore student housing through a map interface with real-time price filtering, walking-distance overlays, and detailed apartment info, and [JobSense](https://github.com/texasluminescence/job-trend-analyzer/), another internship creating a full-stack job-market analytics tool (FastAPI backend, React dashboard) where I built the time-series models and visualizations to forecast jobs, salaries, and skills.
+
+You can see more of my work across software, data, writing, and visualization on my [website](ygnewyork.github.io).
+
+
 <!--
 **ygnewyork/ygnewyork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
