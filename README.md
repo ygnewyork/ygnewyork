@@ -14,4 +14,4 @@ Before that I spent a semester at Longhorn Life Sciences designing the Firestore
 
 I'm also a senior data designer at The Daily Texan, UT's student paper, where I scrape and clean datasets in R and Python and build the [graphics](https://ygnewyork.github.io/dataviz.html) that run with the stories, for an audience of 11,500.
 
-More of my work — software, experiences, projects, and visualization — is on my [website](https://ygnewyork.github.io).
+You can view all of my software, experiences, projects, and visualizations on my [website](https://ygnewyork.github.io).
