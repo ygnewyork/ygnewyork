@@ -1,23 +1,17 @@
 ## Hi there 👋
 
-Hi! I'm a Computer Science and Statistics & Data Science double major at UT Austin. Right now I'm an SDE intern at AWS for Summer 2026 on the Aurora database team, building telemetry pipelines in cdk across pre-production instances. My focus has been mainly on backend and infrastructure engineering, and I like working where large systems and data meet.
+I'm a Computer Science and Statistics & Data Science double major at UT Austin, graduating May 2028. I love to work on backend, pipeline, and data infrastructure — the systems that move large volumes of data and have to stay accurate while they do it.
 
-My background spans full-stack software and ML. On the engineering side I've shipped applications with Flask, React Native, Supabase, Firebase, and Docker. During a Spring 2026 SWE internship at Longhorn Life Sciences, I helped build a React Native and Firebase wound-monitoring app for clinicians, owning authentication, the patient dashboard and alerts, and the Firestore schema behind clinical documentation and image uploads. I've also built [Wampus Prices](https://wampus.duckdns.org/), an interactive Flask and JavaScript web app that helps UT Austin students explore student housing through a map interface with real-time price filtering, walking-distance overlays, and detailed apartment info, and [JobSense](https://github.com/texasluminescence/job-trend-analyzer/), another internship creating a full-stack job-market analytics tool (FastAPI backend, React dashboard) where I built the time-series models and visualizations to forecast jobs, salaries, and skills.
+This past summer I was an SDE intern on the Aurora database team at AWS, where I built an event-driven telemetry pipeline giving on-call engineers end-to-end visibility into migration health, latency, and errors across 60,000+ distributed database instances. Transition events were captured through EventBridge Pipes and streamed via Firehose into a partitioned S3/Athena store, processing 250,000+ data movements. I deployed it with TypeScript CDK on a multi-region pipeline with canary tests, health checks, and CloudWatch-triggered rollbacks across regional waves.
 
-You can see more of my work across software, data, writing, and visualization on my [website](https://ygnewyork.github.io).
+Before that I spent a semester at Longhorn Life Sciences designing the Firestore schema and role-based access control behind a pre-launch clinical wound-monitoring platform — security rules and per-patient storage scoping so clinicians only reach their own records. This fall I'm joining PwC as a software engineering intern.
 
+**A few things I've built**
 
-<!--
-**ygnewyork/ygnewyork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[Wampus Prices](https://wampus.duckdns.org/)** — a Flask and D3.js app on EC2 that maps West Campus housing for UT students, with price filtering, walking-distance overlays, and live data polled from the Austin Open Data Portal API.
+- **[HerdUp](https://github.com/AnishK05/HerdUp/tree/main)** — an Expo iOS app for 55,000+ UT students, where I built a hybrid search combining vector embeddings with lexical scoring (+30% relevance) over a Supabase Postgres backend with row-level security.
+- **[JobSense](https://github.com/texasluminescence/job-trend-analyzer/)** — a job-market analytics tool over 10,000+ STEM postings, where I built the ARIMA forecasting, the skill classification, and the Python/SQL validation that flagged pipeline anomalies at 92% accuracy.
 
-Here are some ideas to get you started:
+I'm also a senior data designer at The Daily Texan, UT's student paper, where I scrape and clean datasets in R and Python and build the [graphics](https://ygnewyork.github.io/dataviz.html) that run with the stories, for an audience of 11,500.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More of my work — software, experiences, projects, and visualization — is on my [website](https://ygnewyork.github.io).
