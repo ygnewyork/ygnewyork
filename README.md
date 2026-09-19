@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi! I'm Yash, a Computer Science and Statistics & Data Science double major at UT Austin. I love to work on backend, pipeline, and data infrastructure, essentially the systems that move large volumes of data and have to stay accurate while they do it.
+Hi! I'm Yash, a Computer Science and Statistics & Data Science double major at UT Austin. I love to work on backend, pipeline, and data infrastructure, essentially all the systems that move large volumes of data and have to stay accurate while they do it.
 
 This past summer I was an SDE intern on the Aurora database team at AWS, where I built an event-driven telemetry pipeline giving on-call engineers end-to-end visibility into migration health, latency, and errors across 60,000+ distributed database instances. Transition events were captured through EventBridge Pipes and streamed via Firehose into a partitioned S3/Athena store, processing 250,000+ data movements. I deployed it with TypeScript CDK on a multi-region pipeline with canary tests, health checks, and CloudWatch-triggered rollbacks across regional waves.
 
